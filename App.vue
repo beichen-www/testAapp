@@ -1,7 +1,7 @@
 <script>
 	export default {
 		onLaunch: function() {
-			console.log('App Launch')
+			console.log('App Launch-dev 內容')
 		},
 		onShow: function() {
 			console.log('App Show')
